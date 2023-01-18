@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardItem{
+    border: 1px solid red;
+    height: 380px;
+    width: 250px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.cardItem .cardImg{
+    border: 1px solid green;
+    display: flex;
+    justify-content: center;
+}
+
+.cardItem .cardImg img{
+    width: 100%;
+    height: 200px;
+}
+
+.cardDescription{
+    
+    display: flex;
+    flex-direction: column;
+
+}
+
+.cardDescription .Title{
+    font-size: 21px;
+    margin: 6px 0;
+}
+
+.cardDescription .description{
+    display: none;
+}
+
+.cardDescription .cant{
+    color: black;
+    font-size: 15px;
+    margin: 6px 0;
+}
+
+.cardDescription .precio{
+    color: #6F5ED6;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 2px 0;
+}

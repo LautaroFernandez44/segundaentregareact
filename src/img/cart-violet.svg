@@ -1,0 +1,20 @@
+<svg width="28" height="27" viewBox="0 0 28 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="14.0093" cy="13.3279" rx="13.8378" ry="13.3056" fill="#6F5ED6"/>
+<line x1="7.62256" y1="10.1345" x2="20.3959" y2="10.1345" stroke="black" stroke-width="1.06445"/>
+<line x1="8.68701" y1="13.3279" x2="19.3315" y2="13.3279" stroke="black" stroke-width="1.06445"/>
+<line x1="10.8159" y1="16.5212" x2="17.2026" y2="16.5212" stroke="black" stroke-width="1.06445"/>
+<line x1="11.3481" y1="7.47342" x2="11.3481" y2="19.1823" stroke="black" stroke-width="1.06445"/>
+<path d="M16.6704 7.47342V19.1823" stroke="black" stroke-width="1.06445"/>
+<path d="M11.2308 18.8376L7.04243 8.46781" stroke="black" stroke-width="1.06445"/>
+<line x1="16.7085" y1="18.9847" x2="20.9663" y2="8.3402" stroke="black" stroke-width="1.06445"/>
+<line x1="6.55811" y1="8.00565" x2="21.4604" y2="8.00565" stroke="black" stroke-width="1.06445"/>
+<line x1="10.8159" y1="18.6501" x2="17.2026" y2="18.6501" stroke="black" stroke-width="1.06445"/>
+<line x1="10.8159" y1="21.8435" x2="17.2026" y2="21.8435" stroke="black" stroke-width="1.06445"/>
+<line x1="7.11765" y1="8.70618" x2="6.0532" y2="5.51283" stroke="black" stroke-width="1.06445"/>
+<line x1="6.55811" y1="5.87675" x2="4.42921" y2="5.87675" stroke="black" stroke-width="1.06445"/>
+<line x1="14.0093" y1="18.6501" x2="10.8159" y2="18.6501" stroke="black" stroke-width="1.06445"/>
+<line x1="11.3481" y1="19.1823" x2="11.3481" y2="22.3757" stroke="black" stroke-width="1.06445"/>
+<circle cx="10.8159" cy="23.4401" r="1.06445" fill="black"/>
+<circle cx="17.2026" cy="23.4401" r="1.06445" fill="black"/>
+<path d="M11.8804 19.1823C-0.0946627 19.1823 11.8804 22.3757 11.8804 22.3757" stroke="black" stroke-width="1.06445"/>
+</svg>
